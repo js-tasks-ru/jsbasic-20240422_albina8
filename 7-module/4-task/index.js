@@ -138,3 +138,4 @@ export default class StepSlider {
     thumb.addEventListener('pointerdown', this.#elemPointerdownHandler);
   }
 }
+
